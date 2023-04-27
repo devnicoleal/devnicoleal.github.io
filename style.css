@@ -1,0 +1,50 @@
+<style>
+h1, p   { 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body { 
+    background-color: rgb(189, 173, 189);
+}
+
+.cidade { 
+    color: rgb(102, 4, 105);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tamanholista { 
+    font-size: 30px;
+}
+
+.nomecentro { 
+    text-align: center;
+}
+
+div { 
+    border: 1px solid green;
+}
+
+#minha-foto {
+    float: left;
+    height: 300px
+    
+    
+}
+
+.image-container {
+    height: 300px;
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+</style>
